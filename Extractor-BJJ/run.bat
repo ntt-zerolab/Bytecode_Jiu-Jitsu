@@ -1,0 +1,1 @@
+..\..\..\intel64\bin\pin.exe -t x64\Debug\Extractor-BJJ.dll -c test_config.json -p C_HEADER -o test_payload.h -- cscript.exe test.vbs

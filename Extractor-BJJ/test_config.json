@@ -1,0 +1,28 @@
+{
+  "interp_module_name": "C:\\Windows\\System32\\vbscript.dll",
+  "interp_func_offset": 33968,
+  "management_structure_index": 1,
+  "bytecode": {
+    "reference_offsets": [
+      0,
+      480
+    ]
+  },
+  "symbol_tables": [
+    {
+      "type": 2,
+      "scope": 0,
+      "reference_offsets": [
+        0,
+        496
+      ],
+      "forward_link_offset": 0
+    }
+  ],
+  "vpc": {
+    "reference_offsets": [
+      0,
+      472
+    ]
+  }
+}

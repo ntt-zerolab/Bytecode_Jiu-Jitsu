@@ -1,0 +1,1 @@
+..\x64\Release\Injector-BJJ.exe -c test_config.json -p test_payload.json -s test_search.json
